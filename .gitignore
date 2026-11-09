@@ -1,0 +1,6 @@
+
+# Environment and logs
+.env
+*.log
+venv/
+
